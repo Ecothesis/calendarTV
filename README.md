@@ -4,7 +4,7 @@ Android TV / Google TV week-view calendar prototype.
 
 ## Download and install
 
-[Download the test APK](https://github.com/Ecothesis/calendarTV/releases/latest/download/week-on-tv-0.1-demo.apk)
+[Download the test APK](https://github.com/Ecothesis/calendarTV/raw/refs/heads/main/downloads/week-on-tv-0.1-demo.apk)
 
 Transfer the APK to your TV, open it with a file manager and allow installation from that source when prompted. Requires Android TV / Google TV running Android 6.0 or newer.
 
